@@ -1,6 +1,6 @@
 UoB Bootcamp - VBA challenge
 
-This repository is the Challenge #2 of the UoB Data Analytics bootcamp. 
+This repository has the results of Challenge #2 of the UoB Data Analytics bootcamp. 
 
 It contains:
 - screenshots of the results for each year in the spreadsheet given
